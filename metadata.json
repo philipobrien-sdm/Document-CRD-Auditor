@@ -1,0 +1,6 @@
+{
+  "name": "Document Knowledge Graph & Comment Audit Tool",
+  "description": "Systematically extract interactive knowledge graphs from documents and PDFs, map commenter concerns back to knowledge nodes, and audit team responses and proposed actions line by line.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
